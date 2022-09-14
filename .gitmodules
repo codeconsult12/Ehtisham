@@ -4,3 +4,6 @@
 [submodule "ALCompanyProject"]
 	path = ALCompanyProject
 	url = https://github.com/codeconsult12/ALCompanyProject.git
+[submodule "BAI2FileProject"]
+	path = BAI2FileProject
+	url = https://github.com/codeconsult12/BAI2FileProject.git
