@@ -1,3 +1,6 @@
 [submodule "LegendHealthProject"]
 	path = LegendHealthProject
 	url = https://github.com/codeconsult12/LegendHealthProject.git
+[submodule "ALCompanyProject"]
+	path = ALCompanyProject
+	url = https://github.com/codeconsult12/ALCompanyProject.git
