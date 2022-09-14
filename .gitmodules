@@ -25,3 +25,6 @@
 [submodule "ReportControlAddin"]
 	path = ReportControlAddin
 	url = https://github.com/codeconsult12/ReportControlAddin.git
+[submodule "TaxSearchApp"]
+	path = TaxSearchApp
+	url = https://github.com/codeconsult12/TaxSearchApp.git
