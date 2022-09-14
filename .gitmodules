@@ -7,3 +7,6 @@
 [submodule "AL"]
 	path = AL
 	url = https://github.com/codeconsult12/AL.git
+[submodule "ALProject"]
+	path = ALProject
+	url = https://github.com/codeconsult12/ALProject.git
