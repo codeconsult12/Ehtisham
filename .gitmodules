@@ -16,3 +16,6 @@
 [submodule "CustomerCard"]
 	path = CustomerCard
 	url = https://github.com/codeconsult12/CustomerCard.git
+[submodule "LegendHealthProject"]
+	path = LegendHealthProject
+	url = https://github.com/codeconsult12/LegendHealthProject.git
