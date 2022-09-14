@@ -13,3 +13,6 @@
 [submodule "23-8-21-LH"]
 	path = 23-8-21-LH
 	url = https://github.com/codeconsult12/23-8-21-LH.git
+[submodule "CustomerCard"]
+	path = CustomerCard
+	url = https://github.com/codeconsult12/CustomerCard.git
