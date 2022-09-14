@@ -22,3 +22,6 @@
 [submodule "PriceChecker"]
 	path = PriceChecker
 	url = https://github.com/codeconsult12/PriceChecker.git
+[submodule "ReportControlAddin"]
+	path = ReportControlAddin
+	url = https://github.com/codeconsult12/ReportControlAddin.git
