@@ -28,3 +28,6 @@
 [submodule "TaxSearchApp"]
 	path = TaxSearchApp
 	url = https://github.com/codeconsult12/TaxSearchApp.git
+[submodule "TimeSheetProject"]
+	path = TimeSheetProject
+	url = https://github.com/codeconsult12/TimeSheetProject.git
