@@ -35,3 +35,6 @@
 [submodule "VendorDimensionProject"]
 	path = VendorDimensionProject
 	url = https://github.com/codeconsult12/VendorDimensionProject.git
+[submodule "VendorFieldDimension"]
+	path = VendorFieldDimension
+	url = https://github.com/codeconsult12/VendorFieldDimension.git
