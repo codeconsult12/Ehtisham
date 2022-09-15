@@ -41,3 +41,6 @@
 [submodule "Debug"]
 	path = Debug
 	url = https://github.com/codeconsult12/Debug.git
+[submodule "ALGL"]
+	path = ALGL
+	url = https://github.com/codeconsult12/ALGL.git
