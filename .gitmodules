@@ -32,3 +32,6 @@
 	path = TimeSheetProject
 	url = https://github.com/codeconsult12/TimeSheetProject.git
 
+[submodule "VendorDimensionProject"]
+	path = VendorDimensionProject
+	url = https://github.com/codeconsult12/VendorDimensionProject.git
